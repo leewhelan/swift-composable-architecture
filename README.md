@@ -1,1 +1,1 @@
-# swift-composable-architecture
+# swift-dependencies
